@@ -7,7 +7,7 @@ Eu sou a Ana e sou estudante de FullStack em transição de carreira.
 
 - BootCamp de FullStack da Santander em parceria com a Dio.
 - 2˚ ano do Técnologo em Analise e Desenvolvimento de Sistemas.
-- Cursos complementares em escola especializadas.
+- Cursos complementares em escolas especializadas.
 
  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰
 
