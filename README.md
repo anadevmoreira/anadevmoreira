@@ -24,11 +24,11 @@ Eu sou a Ana e sou estudante de FullStack em transição de carreira.
 
 ➕ Most Used Languages:
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ❕Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars   )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
 
 🙋‍♀️ Vamos nos Conectar?
