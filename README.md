@@ -5,7 +5,7 @@ Eu sou a Ana e sou estudante de FullStack em transição de carreira.
 
 📚 No momento estou cursando:
 
-- 2˚ ano do Técnologo em Analise e Desenvolvimento de Sistemas.
+- 1˚ ano do Técnologo em Analise e Desenvolvimento de Sistemas.
 - Cursos complementares em escolas especializadas.
 
 📚 Cursos finalizados:
